@@ -1,0 +1,23 @@
+commit 126169435e4caef36b17bbe226aba6a2b6d3a5ec
+Author: Ahmed HEGAZI <ahegaz@linux.CS.McGill.CA>
+Date:   Wed Dec 6 21:35:20 2017 -0500
+
+    fixed a bug that would cause the consumer to not change the turn.txt file
+
+commit b7232fcdcf86b9a45bf443555eb3c2796138f452
+Author: Ahmed HEGAZI <ahegaz@linux.CS.McGill.CA>
+Date:   Wed Dec 6 21:34:36 2017 -0500
+
+    fixed a bug that would cause the producer to give wrong values to the consumer
+
+commit c4faf19e5ea87e4742f6d3a8e5a4d6e53e5b6893
+Author: Ahmed HEGAZI <ahegaz@linux.CS.McGill.CA>
+Date:   Wed Dec 6 21:34:20 2017 -0500
+
+    fixed a bug that would cause the producer to give wrong values to the consumer
+
+commit d5440a39386b393b170c1613124fc170b0bdf190
+Author: Ahmed HEGAZI <ahegaz@linux.CS.McGill.CA>
+Date:   Wed Dec 6 21:33:16 2017 -0500
+
+    fixed bug with the makefile that would delete main.c
